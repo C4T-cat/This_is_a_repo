@@ -30,7 +30,7 @@ echo ("highlight code");
 
 Đính kèm link:  [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Đính kèm ảnh:   ![Perry](https://j2c.cc/2ea144f6)
+Đính kèm ảnh:   ![Perry](https://user-images.githubusercontent.com/72268643/139666563-abcadb65-a405-4d08-91ca-61f3af47ddf0.png)
 
 ------------------------
 list không có thứ tự: 
