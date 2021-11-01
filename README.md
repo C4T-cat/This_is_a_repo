@@ -21,6 +21,4 @@
 
 ------------------------
 
-`cpp
-echo ("highlight code");
-`
+`\`echo ("highlight code");\``
