@@ -26,7 +26,7 @@ echo ("highlight code");
 ```
 ------------------------
 
-Đính kèm link:  `[Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)`
+Đính kèm link:  [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Đính kèm ảnh:   ![Perry](https://static.wikia.nocookie.net/phineasandferb/images/6/66/Profile_-_Perry_the_Platypus.PNG/revision/latest?cb=20200401182751)
 
