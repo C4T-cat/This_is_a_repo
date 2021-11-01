@@ -15,6 +15,19 @@
 
 ------------------------
 
+Xuống dòng: no no no<br>yes yes yes
+
+Đường chân trời: 
+***
+content
+
+hoặc
+
+-----
+content
+
+------------------------
+
 đính kèm inline code: 
 
 `echo ("highlight code");` 
