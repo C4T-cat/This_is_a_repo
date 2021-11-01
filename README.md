@@ -5,8 +5,6 @@
 ##### h5
 ###### h6
 
-```php
-
+```c
 echo ("highlight code");
-
 ```
