@@ -30,9 +30,12 @@ echo ("highlight code");
 
 Đính kèm link:  [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Đính kèm ảnh:   ![Perry](https://user-images.githubusercontent.com/72268643/139666563-abcadb65-a405-4d08-91ca-61f3af47ddf0.png)
+Đính kèm ảnh:   
+
+![Perry](https://user-images.githubusercontent.com/72268643/139666563-abcadb65-a405-4d08-91ca-61f3af47ddf0.png)
 
 ------------------------
+
 list không có thứ tự: 
 
 * item 1
@@ -56,6 +59,10 @@ list có thứ tự:
 
 -------------------------
 
-Phần nhỏ ở dưới: A<sub>b</sub>
+Phần nhỏ ở dưới: 
 
-Phần nhỏ ở trên (số mũ): A<sup>b</sup>
+A<sub>b</sub>
+
+Phần nhỏ ở trên (số mũ): 
+
+A<sup>b</sup>
