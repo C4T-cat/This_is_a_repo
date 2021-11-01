@@ -56,4 +56,4 @@ list có thứ tự:
 
 A<sub>b</sub>
 
-'A^{i}'
+A<sup>b</sup>
