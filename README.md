@@ -5,6 +5,6 @@
 ##### h5
 ###### h6
 
-```c
+```
 echo ("highlight code");
 ```
