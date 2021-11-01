@@ -36,6 +36,5 @@ echo ("highlight code");
 | title 1 | title2 | title 3 |
 |-|-|-|
 | content 1 | content 2 | content 3 |
-|-|-|-|
-| content 4 | content 5 | content 6 |
-| content 7 | content 8 | content 9 |
+| content 4<br>content 7 | content 5<br>content8 | content 6<br>content9 |
+
