@@ -1,24 +1,12 @@
-# this_is_a_repo
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
 
-[A-Garden](https://atcoder.jp/contests/ABC106/tasks/abc106_a)
+```php
 
-# Mô tả
-Một mảnh vườn có chiều dài a và chiều rộng là b. Chuối muốn xây một lối đi ngang và dọc qua khu vườn như hình vẽ dưới đây:
-!(https://img.atcoder.jp/ghi/27d063746b460f1132b6a99aa535a562.png)
+echo ("highlight code");
 
-Hãy tìm diện tích đất không chứa đường đi?
-
-# Điều kiện 
-+) 2 ≤ a, b ≤ 100
-
-# Input:
-2 số a, b thỏa mãn điều kiện
-
-# Output
-Diện tích đất không chứa đường đi
-
-# Ví dụ
-| Input | Output |
-| ----- | ----- |
-| 2 2 | 1 |
-| 5 7 | 24 |
+```
