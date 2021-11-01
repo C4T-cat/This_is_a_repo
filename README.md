@@ -15,8 +15,8 @@
 
 ------------------------
 
-Đính kèm link:  '[title](link)'
-Đính kèm ảnh:   '![](link)'
+Đính kèm link:  `[title](link)`
+Đính kèm ảnh:   `![title](link ảnh)`
 
 ------------------------
 `
