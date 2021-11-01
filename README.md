@@ -15,7 +15,9 @@
 
 ------------------------
 
-đính kèm inline code: `echo ("highlight code");` 
+đính kèm inline code: 
+
+`echo ("highlight code");` 
 
 đính kèm 1 đoạn code: 
 
@@ -28,7 +30,7 @@ echo ("highlight code");
 
 Đính kèm link:  [Don't Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Đính kèm ảnh:   ![Perry](https://static.wikia.nocookie.net/phineasandferb/images/6/66/Profile_-_Perry_the_Platypus.PNG/revision/latest?cb=20200401182751)
+Đính kèm ảnh:   ![Perry](https://j2c.cc/2ea144f6)
 
 ------------------------
 list không có thứ tự: 
