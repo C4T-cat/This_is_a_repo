@@ -54,6 +54,6 @@ list có thứ tự:
 
 -------------------------
 
-A<sub>b</sub>
+Phần nhỏ ở dưới: A<sub>b</sub>
 
-A<sup>b</sup>
+Phần nhỏ ở trên (số mũ): A<sup>b</sup>
