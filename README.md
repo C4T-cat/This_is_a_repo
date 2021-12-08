@@ -82,4 +82,5 @@ A<sup>b</sup>
 
 
 |SIM: Module thông tin người đăng ký<br>MSC: Trung tâm chuyển mạch dịch vụ di động<br>HLR: Địa chỉ đăng ký nhà|BTS: Trạm thu phát sóng<br>AuC: Trung tâm xác thực<br>VLR:  Địa chỉ đăng ký khách|BSC: Trạm điều khiển gốc<br>ME: Trang thiết bị di động<br>EIR: Thiết bị nhận dạng người đăng ký| 
+|-|-|-|
 
