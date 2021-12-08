@@ -79,3 +79,16 @@ A<sub>b</sub>
 Phần nhỏ ở trên (số mũ): 
 
 A<sup>b</sup>
+
+
+|Đặc điểm|ĐIện thoại cơ bản|Điện thoại tiên tiến|Điện thoại thông minh|
+|-|-|-|-|
+|Bộ xử lý|Tốc độ giới hạn|Tốc độ được cải thiện|Tốc độ siêu việt|
+|Bộ nhớ|Bộ nhớ giới hạn|Bộ nhớ lớn hơn|Bộ nhớ lớn hơn + khả năng tích hợp ổ cứng|
+|Hiển thị|Trắng đen|Có màu|Kích thước lớn và >16bit màu|
+|Thẻ nhớ|Không có|MiniSD/MMCmobile|MMCmobile|
+|Camera|Không có|Máy ảnh tĩnh|Có thêm quay video|
+|Nhập dữ liệu|Bàn phím số||Bàn phím cảm ứng, nhận diện chữ viết tay,tích hợp bàn phím QWERTY|
+|Giao diện ô|Giọng nói và dữ liệu bị giới hạn|Giọng nói và cải thiện dữ liệu tốc độ|Giọng nói và dữ liệu tốc độ cao|
+|Kết nối không dây|IrDA|IrDA, Bluetooth|IrDA, Bluetooth, WiFi|
+|Pin|Cố định, có thể sạc lại, pin Lithium Ion Polymer|Sạc rời, có thể sạc lại, pin Lithium Ion Polymer|Sạc rời, có thể sạc lại, pin Lithium Ion|
