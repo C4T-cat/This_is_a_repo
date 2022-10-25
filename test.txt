@@ -1,1 +1,3 @@
-hehehêhhehe
+<?php
+	echo phpinfo();
+?>
